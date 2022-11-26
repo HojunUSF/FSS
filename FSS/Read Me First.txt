@@ -1,0 +1,3 @@
+Male sure to read Forced Security Service.pdf before installing FSS(Forced Security Service).
+
+You can briefly review the errors that may occur during the installation process and the functions of the Forced Security Service (FSS).

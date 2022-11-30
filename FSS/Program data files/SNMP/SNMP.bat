@@ -31,15 +31,10 @@ start SNMPtool.bat
 timeout 0
 start SNMPsystem.bat
 timeout 0
-cd..
-cd..
-FS1.exe
+
 
 :dh
 start Snmpcontrol.bat
 timeout 0
 start SNMPsystem.bat
 timeout 0
-cd..
-cd..
-FS1.exe
